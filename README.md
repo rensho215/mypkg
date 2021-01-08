@@ -6,7 +6,7 @@
 - Ubuntu 20.04 LTS
 - ROS "focal"
 ## 動画リンク
-
+- https://youtu.be/0hDLD_rjXrQ
 
 ## インストール方法
 以下のコマンドを実行して、パッケージをクローンしてください。
